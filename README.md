@@ -6,8 +6,8 @@
  plus 버튼을 클릭하여 할일 목록을 입력, 수정, 삭제할 수 있음 </br>
 할일을 끝냈으면 체크버튼을 클릭해 완료 상태를 표시함</br>
 
-* 구현
-one Activity
-recycelrview
-roomDB
-MVVM 패턴
+* 구현y</br>
+one Activity</br>
+recycelrviewy</br>
+roomDBy</br>
+MVVM 패턴y</br>
